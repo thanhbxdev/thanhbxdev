@@ -66,7 +66,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/ThanhBeNho.Dev" target="blank">
+  <a href="https://www.facebook.com/thanhbxdev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Thanhbxdev-facebook" />
   </a>
   <a href="mailto:thanhbxdev@gmail.com" target="top">
